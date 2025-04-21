@@ -12,7 +12,7 @@ The project is divided into two key parts:
 
 ## 🔗 Dataset Source
 - [Reporting Carrier On-Time Performance Data Description(Bureau of Transportation Statistics)](https://www.transtats.bts.gov/Fields.asp?gnoyr_VQ=FGJ)
-- [Download dataset directly (airline_2m.tar.gz)](https://drive.google.com/uc?id=1cGO_Tcqu_Tv-ZdsZr8TrRAFRwAmS3D4K&export=download)
+- [Download dataset directly (airline_2m.tar.gz)](https://drive.google.com/file/d/14hyGmVzJlDdqU_3K6598pWNM_n33x8lc/view?usp=sharing)
 
 ---
 
@@ -45,5 +45,7 @@ The project is divided into two key parts:
 
   ## 📂 Files
 
-- `Part_I_exploration_template.html` — Exploratory data analysis (EDA), wrangling, and visual investigation  
-- `Part_II_explanatory_template.html` — Explanatory visual report with insights and storytelling
+- [Part_I_Exploration_templete.ipynb](/notebook/Part_I_explanatory_template.ipynb)
+- [Part_II_Exploration_templete.ipynb](/notebook/Part_II_explanatory_template.ipynb)
+
+
