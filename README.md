@@ -24,11 +24,7 @@ The project is divided into two key parts:
 - Conducted:
   - **Univariate Analysis**: Explored distributions of `DepDelay`, `ArrDelay`, `CarrierDelay`, etc.
   - **Bivariate Analysis**: Analyzed relationships between delays and month, day of week, time of day, and airline.
-  - **Multivariate Analysis**: Created facet plots and heatmaps to examine delay patterns by airline, day, and cancellation status.
-- Identified patterns like:
-  - Peak delays on **Mondays/Fridays** and during **morning/evening hours**.
-  - **Airline-wise** differences in delay and cancellation rates.
-  - **Extreme delays** increasing likelihood of **cancellation**.
+  - **Multivariate Analysis**: Created facet plots to examine delay patterns by airline, day, and cancellation status..
 
 ### 📊 Part II – Explanatory Analysis
 - Presented a **polished narrative** with key insights derived from EDA.
