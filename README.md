@@ -41,7 +41,7 @@ The project is divided into two key parts:
 
   ## 📂 Files
 
-- [Part_I_Exploration_templete.ipynb](/notebook/Part_I_explanatory_template.ipynb)
-- [Part_II_Exploration_templete.ipynb](/notebook/Part_II_explanatory_template.ipynb)
+- [Part_I_Exploration_template.ipynb](/notebook/Part_I_explanatory_template.ipynb)
+- [Part_II_Exploration_template.ipynb](/notebook/Part_II_explanatory_template.ipynb)
 
 
