@@ -33,7 +33,7 @@ The project is divided into two key parts:
   2. **Monthly Cancellations** – Bar plot revealing seasonal cancellation peaks (e.g., winter).
   3. **Airline-wise Cancellations** – Bar chart comparing disruption rates by carrier.
   4. **Impact of Departure on Arrival Delays** – Scatter plot showing cascading delay effects.
-  5. **Airport-Specific Delays** – Heatmap showing which airports have consistently high delays.
+  5. **Airport-Specific Delays** – Bar chart showing which airports have consistently high delays.
 - Explained each chart with detailed comments for storytelling clarity.
 - Summarized key trends in flight operations and visual insights.
   
